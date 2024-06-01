@@ -15,5 +15,8 @@
   "volta": {
     "node": "20.11.0",
     "yarn": "1.22.19"
+  },
+  "dependencies": {
+    "phaser": "^3.80.0"
   }
 }
